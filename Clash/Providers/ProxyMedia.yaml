@@ -336,7 +336,7 @@ payload:
   - DOMAIN-SUFFIX,olevod.tv
   - DOMAIN-SUFFIX,olevodtv.com
 
-  # OpenAi
+  # OpenAI
   - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
